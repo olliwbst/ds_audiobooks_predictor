@@ -45,3 +45,5 @@ Probability vs Avg. Price:
 Probability vs Time since last purchase:
 * it gets more likely for a customer to buy again the longer it has been since his last purchase
 * we see that low completion rates and low overall spendings are a driving factor once again
+
+Link to the interactive version: https://public.tableau.com/profile/oliver.wobst#!/vizhome/audbooks_100_sample_prediction_result/Dashboard1?publish=yes
